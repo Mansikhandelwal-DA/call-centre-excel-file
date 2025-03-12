@@ -12,7 +12,7 @@ I built this dashboard as part of my learning journey in interactive data visual
 The dashboard includes multiple visualizations and Key Performance Indicators (KPIs) to measure call center efficiency.
 
 ## 1. Key Matrics(KPIs)
-    **Total Calls** : 1000 <br>
+   **Total Calls:** 1000 <br>
     **Total Revenue Generated**: $96,623<br>
     **Total Call Duration**: 89,850 minutes<br>
     **Average Customer Rating**: 3.9/5<br>
@@ -27,10 +27,10 @@ Useful for understanding which days have the highest or lowest customer engageme
    **Female vs Male Callers** segmented across different cities **(Cincinnati, Cleveland, Columbus)**.<br>
 Helps in analyzing customer demographics and trends.
 ## 5. Rating Distribution
-    Each representative's performance in terms of calls handled and revenue generated.
-    Helps management identify top-performing agents and areas for training.
+Each representative's performance in terms of calls handled and revenue generated.<br>
+Helps management identify top-performing agents and areas for training.
 ## 6. Monthly Filter
-    Users can **filter data by month**  to view trends and performance for specific time periods.
+Users can **filter data by month**  to view trends and performance for specific time periods.
 
     
 
