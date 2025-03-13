@@ -18,8 +18,6 @@ The dashboard includes multiple visualizations and Key Performance Indicators (K
     **Average Customer Rating**: 3.9/5<br>
     **Happy Callers**: 360 Customer<br>
 
-     ![KPI's](https://github.com/user-attachments/assets/16d18ab7-93b5-482f-827f-b33d7eca503a)
-
 ## 2. Call Trend Analysis
   Line and area chart tracking **call volume trends**  over different months.<br>
  Helps identify peak and low call periods to optimize staffing and resources.
