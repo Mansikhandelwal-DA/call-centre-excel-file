@@ -38,7 +38,7 @@ Users can **filter data by month**  to view trends and performance for specific 
 
 # Repository Structure 
 
-   **Data:** https://github.com/Mansikhandelwal-DA/call-centre-excel-file/blob/main/call%20centre%20data.xlsx
+   **Data:** (https://github.com/Mansikhandelwal-DA/call-centre-excel-file/blob/main/call%20centre%20data.csv)
 
   **Dashboard:** https://github.com/Mansikhandelwal-DA/call-centre-excel-file/blob/main/call%20centre%20excel%20dashboard.xlsx
 
